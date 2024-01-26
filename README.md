@@ -12,5 +12,5 @@ A minimal Weather app made using Flutter.
 note: You can get the weather-API & apiKey from https://openweathermap.org/  
 
  #### screenshots
- <img src="https://github.com/kailasnv/weather1/assets/130171990/6a083ee3-6335-490e-a304-8acaeab77c9d" width=20% height=20%>
+ <img src="https://github.com/kailasnv/weather1/assets/130171990/6a083ee3-6335-490e-a304-8acaeab77c9d" width=40% height=40%>
  
