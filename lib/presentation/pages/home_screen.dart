@@ -13,10 +13,10 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
 // some dummy data
   final List<dynamic> gridData = const [
-    [Icons.sunny, "Sunrise    ", "06:00"],
-    [Icons.dark_mode_outlined, "Sunset    ", "18:30"],
-    [Icons.fireplace_outlined, "Max Temp", "35 c"],
-    [Icons.ice_skating_outlined, "Min Temp", "21 c"],
+    [Icons.sunny, "Sunrise    "],
+    [Icons.dark_mode_outlined, "Sunset    "],
+    [Icons.fireplace_outlined, "Max Temp"],
+    [Icons.ice_skating_outlined, "Min Temp"],
   ];
 
   @override

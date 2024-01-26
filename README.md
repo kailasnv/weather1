@@ -9,6 +9,6 @@ A minimal Weather app made using Flutter.
      3. geolocator: ^10.1.0 ->for accessing the location & Determining the current position 
                               of device. 
                           
-note: I have used the API-GET-request link from openweathermap.org website. 
+note: You can get the weather-API & apiKey from https://openweathermap.org/  
 
  
