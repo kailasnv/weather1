@@ -1,16 +1,14 @@
 # weather1
 
-A new Flutter project.
+A minimal Weather app made using Flutter.
 
-## Getting Started
+## Packages used in this project
+     1. flutter_bloc: ^8.1.3 -> for state management.
+     2. weather: ^3.1.1     ->This package provides functions for sending api-GET requests  
+                             and at the same time it returns a weather-model object.
+     3. geolocator: ^10.1.0 ->for accessing the location & Determining the current position 
+                              of device. 
+                          
+note: I have used the API-GET-request link from openweathermap.org website. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
